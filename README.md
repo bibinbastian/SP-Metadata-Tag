@@ -11,5 +11,6 @@
  7. Create a git ignore file to ignore .env from checking in to sc
  8. Looks like evertyhing is fine from desktop now let's host it as a Azure webapp
  9.Also Commit all the chnages from VS code which will sync to the local git.In GitHub Desktop publish this to web
+ 10. Make sure to get Azure Web App extensiion in VS Code and you can directly push the file
  
 
